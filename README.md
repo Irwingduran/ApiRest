@@ -1,3 +1,3 @@
-#greenpoints -  website using React.js & Tailwind CSS
+ website using React.js & Tailwind CSS
 
 
