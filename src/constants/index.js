@@ -1,4 +1,4 @@
-import { Donation, Tracking, Rewards, Smart, Community, Inventory, Intelligent, Managment, Sustainable, facebook, instagram, twitter, Education } from "../assets";
+import { Intelligent, facebook, instagram, twitter } from "../assets";
 
 export const navLinks = [
   {
@@ -11,11 +11,11 @@ export const navLinks = [
   },
   {
     id: "product",
-    title: "Product",
+    title: "Beneficios",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Valores",
   },
 ];
 
@@ -31,28 +31,28 @@ export const features = [
   },
   {
     id: "feature-2",
-    icon: Community,
+    icon: Intelligent,
     title: "Base de Datos y Monitoreo",
     content:
-      "Una base de datos en la nube almacena los datos recolectados, permitiendo a los agricultores acceder a dashboards en tiempo real para tomar decisiones informadas sobre el riego y la gestión del agua.",
+      "Una base de datos en la nube almacena los datos recolectados, permitiendo a los agricultores acceder a dashboards en tiempo real para tomar decisiones informadas sobre el manejo del sistema de riego y la gestión del agua.",
   },
   {
     id: "feature-3",
-    icon: Smart,
+    icon: Intelligent,
     title: "Red Neuronal y Pronóstico Climático",
     content:
-      "Hemos desarrollado un modelo de red neuronal entrenado con datos históricos y en tiempo real para predecir patrones climáticos. Esto permite ajustar el riego de manera óptima, teniendo en cuenta las condiciones climáticas y el cambio climático.",
+      " Hemos desarrollado un modelo de red neuronal entrenado con datos históricos de precipitación, temperatura, humedad relativa y presión atmosférica para predecir patrones meteorológicos en tiempo real . Esto permite ajustar las necesidades de riego de forma adecuada y hacer un uso más eficiente del recurso hídrico.",
   },
   {
     id: "feature-4",
-    icon: Smart,
+    icon: Intelligent,
     title: "Automatización del Riego",
     content:
-      "El sistema controla automáticamente las bombas de agua y ajusta el riego según las lecturas de los sensores y las predicciones climáticas, optimizando el uso del agua y reduciendo el desperdicio.",
+      " El sistema controla automáticamente el sistema de riego ajustando  los equipos de bombeo de agua según las lecturas de los sensores y las predicciones climáticas, optimizando el uso del agua y reduciendo el desperdicio.",
   },
   {
     id: "feature-5",
-    icon: Smart,
+    icon: Intelligent,
     title: "Tecnología Blockchain",
     content:
       "Implementamos blockchain para asegurar que los datos de calidad del agua, riego y uso del agua sean inmutables y transparentes. Los contratos inteligentes automatizan la gestión del riego y la distribución del agua de manera eficiente.",

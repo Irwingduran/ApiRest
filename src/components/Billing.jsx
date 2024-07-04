@@ -17,11 +17,8 @@ const Billing = () => (
         Beneficios <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Eficiencia en el uso del agua: Optimización del riego y reducción del desperdicio de agua. <br />
-        Sostenibilidad: Promoción de prácticas agrícolas sostenibles y conservación de recursos hídricos. <br />
-        Seguridad y Transparencia: Datos inmutables y transparentes gracias a la tecnología blockchain. <br />
-        Adaptación al Cambio Climático: Predicciones climáticas precisas para ajustar las prácticas agrícolas. <br />
-        Educación y Concienciación: Capacitación de los agricultores en la gestión y conservación del agua. <br />
+
+        Nuestra solución ofrece múltiples beneficios significativos. En primer lugar, optimizamos el riego y reducimos el desperdicio de agua, lo que garantiza un uso más eficiente de este recurso vital. Además, promovemos prácticas agrícolas sostenibles y la conservación de recursos hídricos, asegurando así un futuro más verde. Gracias a la tecnología blockchain, nuestros datos son inmutables y transparentes, proporcionando una trazabilidad completa. También ofrecemos predicciones climáticas precisas, lo que permite ajustar las prácticas agrícolas y adaptarse mejor a las condiciones cambiantes del clima. Finalmente, capacitamos a los agricultores en la gestión y conservación del agua, fomentando un uso responsable y consciente de este recurso esencial.
       </p>
 
 

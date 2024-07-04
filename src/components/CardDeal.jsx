@@ -6,11 +6,12 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Titulo titulo: <br className="sm:block hidden" /> texto texto texto
+        Visión y Misión <br className="sm:block hidden" />
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Illo officia nemo odio, vero alias eligendi hic unde quam ullam veniam temporibus quis delectus, incidunt soluta deserunt numquam quos dicta. Molestias.
-      </p>
+        Nuestra Visión: Aspiramos a transformar la agricultura con tecnología innovadora que promueva la sostenibilidad y la eficiencia en el uso de los recursos naturales.
+        <br />
+        Nuestra Misión: Nos dedicamos a proporcionar soluciones tecnológicas avanzadas que empoderen a los agricultores, ayudándoles a enfrentar los desafíos del cambio climático y asegurar la sostenibilidad de sus prácticas agrícolas.      </p>
 
     </div>
 

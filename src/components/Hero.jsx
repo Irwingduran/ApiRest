@@ -21,9 +21,8 @@ const Hero = () => {
         </h1>
 
         <p className={`${styles.paragraph} text-black max-w-[550px] mt-3`}>
-          HidroVerde es un combinación de IoT, Redes Neuronales y Blockchain para optimizar el uso del agua en la agricultura. Sensores en el campo recopilan datos en tiempo real, mismos
-          datos alimentan una red neuronal que predice patrones climáticos y ajusta automáticamente el riego. <br />
-          La solución mejora la eficiencia hídrica, promueve prácticas sostenibles y ayuda a los agricultores a enfrentar al cambio climático.
+          HidroVerde es una herramienta innovadora que combina tecnologías como loT, Redes Neuronales y Blockchain, con el objetivo de optimizar el uso del agua en la agricultura. Sensores en campo recopilan datos en tiempo real, estos datos alimentan una red neuronal que predice patrones climáticos como precipitación, calcula las necesidades de agua en el cultivo y ajusta automáticamente el sistema riego.
+          Esta solución mejora la eficiencia del recurso hídrico, promueve prácticas sostenibles y ayuda a los agricultores a enfrentar los efectos adversos del cambio climático como las sequías prolongadas o las lluvias intensas.
         </p>
 
       </div>
